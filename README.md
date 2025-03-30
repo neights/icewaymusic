@@ -63,4 +63,5 @@ The player was designed and produced by the author's team over countless days an
     - Provide an email address. We will generate a key file bound to the machine code for you. Send the key file to you on QQ and send a backup to your email.
     - You need to place this key file into the "icewaymusic" folder under the "iux" folder on the TF card, and then you can use all the functions of the VIP version.
 10. **Price**
-The price of VIP is 29 yuan, a one - time purchase. There is no need to pay again for subsequent software upgrades or added functions. 
+The price of VIP is 29 yuan, a one - time purchase. There is no need to pay again for subsequent software upgrades or added functions.
+International version purchase VIP address: https://ko-fi.com/s/3e8208f7b8
