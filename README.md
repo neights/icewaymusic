@@ -65,3 +65,6 @@ The player was designed and produced by the author's team over countless days an
 10. **Price**
 The price of VIP is 29 yuan, a one - time purchase. There is no need to pay again for subsequent software upgrades or added functions.
 International version purchase VIP address: https://ko-fi.com/s/3e8208f7b8
+# Iceway Music User Manual for miyoo mini flip
+## Precautions
+Unzip the volume compression package, install it in the app folder of the sd card, restart the device, and you can see the icewaymusic program in the application.
