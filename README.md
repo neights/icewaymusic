@@ -68,3 +68,11 @@ International version purchase VIP address: https://ko-fi.com/s/3e8208f7b8
 # Iceway Music User Manual for miyoo mini flip
 ## Precautions
 Unzip the volume compression package, install it in the app folder of the sd card, restart the device, and you can see the icewaymusic program in the application.
+**Installation Tutorial for Childhood System**  
+
+
+1. Place the **iceway** folder into the root directory of `/storage/miniplus`.  
+2. Copy the **iceway** file from the "描述" (description) folder into the root directory of `/storage/miniplus/sections/05applications`.  
+3. Place the icon file **icewaymusic.png** (located in `/76x76/治童年/`) into the `/storage/miniplus/skins/Default/icons` directory.  
+   *Note: For other themes like Fresh, Museum Plus, etc., replace "Default" with the theme name (icons may not fully match non-default themes).*  
+4. Delete the **Music** folder and create a new **music** folder (all lowercase) in the same location. *[This is where music files are stored.]*  
