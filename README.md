@@ -1,3 +1,5 @@
+update to 1.6.0 now！！！
+----------------------------------------------------------------------------
 # Iceway Music User Manual for gkd pixel2
 ## Precautions
 Currently, Iceway Music is only compatible with the GKD Pixel2 model and can only be used within the iux front - end for the time being. It cannot be displayed on the es front - end.
